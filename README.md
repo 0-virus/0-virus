@@ -1,6 +1,10 @@
-# I am Zerovirus.
+# Zerovirus
 
-취미로 코딩하는 박영균입니다. 
+Started from hobby!
+Currently Learning MachineLearning...
+Goal: AI developer 🤖🖥️
+
+Welcome to my github!
 
 
 <!--
