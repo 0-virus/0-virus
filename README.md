@@ -1,4 +1,7 @@
-### Hi there 👋
+# I am Zero virus.
+
+###취미로 코딩하는 박영균입니다. 
+
 
 <!--
 **0-virus/0-virus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
