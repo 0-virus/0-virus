@@ -1,4 +1,4 @@
-# I am Zero virus.
+# I am Zerovirus.
 
 취미로 코딩하는 박영균입니다. 
 
