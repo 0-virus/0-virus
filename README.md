@@ -2,12 +2,12 @@
 
 Started from hobby!
 
-Currently Learning MachineLearning...
+Currently Learning ML & AI ...
 
 Goal: AI developer 🤖🖥️
 ###
 ###
-Welcome to my github!
+Welcome to my GitHub!
 
 
 <!--
