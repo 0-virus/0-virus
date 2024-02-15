@@ -9,7 +9,7 @@ Goal: AI developer 🤖🖥️
 ###
 Welcome to my GitHub!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username='pyk09667@gamil.com'&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0-virus&show_icons=true&theme=dracula)
 
 
 <!--
