@@ -9,7 +9,9 @@
 <br/>
 ### Welcome to my GitHub!
 
-<img src='./images/tank.gif' width='30%' height='30%'> <span style='font-size: 1.2em'>&nbsp;➡️ **peer's code😀**</span> <img src='./images/cat.gif' width='30%' height='30%'> <span style='font-size: 1.2em'>&nbsp;➡️ **my code..🤣**</span>
+<img src='./images/tank.gif' width='30%' height='30%'> <span style='font-size: 1.2em'>&nbsp;➡️ **peer's code😀**</span>
+
+<img src='./images/cat.gif' width='30%' height='30%'> <span style='font-size: 1.2em'>&nbsp;➡️ **my code..🤣**</span>
 <br/><br/><br/>
 # My GitHub is...🤔
 ![0-virus' GitHub stats](https://github-readme-stats.vercel.app/api?username=0-virus&show_icons=true&theme=dracula)
