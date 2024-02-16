@@ -9,9 +9,9 @@
 <br/>
 ### Welcome to my GitHub!
 
-<img src='./images/tank.gif' width='50%' height='50%'> <span style='font-size: 1.2em'>&nbsp;:arrow_right: **peer's code😀**</span>
+<img src='./images/tank.gif' width='50%' height='50%'> <span style='font-size: 1.2em'>&nbsp;➡️ **peer's code😀**</span>
 
-<img src='./images/cat.gif' width='50%' height='50%'> <span style='font-size: 1.2em'>&nbsp;:arrow_right: **my code..🤣**</span>
+<img src='./images/cat.gif' width='50%' height='50%'> <span style='font-size: 1.2em'>&nbsp;➡️ **my code..🤣**</span>
 <br/><br/><br/>
 # My GitHub is...🤔
 ![0-virus' GitHub stats](https://github-readme-stats.vercel.app/api?username=0-virus&show_icons=true&theme=dracula)
@@ -28,5 +28,5 @@
 # 🎉Awards🎉
 |     일시     |     대회명      |내용|      주최      | 비고 |
 |:----------:|:---:|---|:------------:|:---:|
-| 2023.11.16 | 제 12회 경제학포럼  | 전세가 예측을 이용한 역전세 조기경보모형 개발: ARIMA 및 머신러닝 기법을 활용하여 |  중앙대학교 경제학부  |1위<br/>[논문](<./files/2023 스키안 포럼 논문.pdf>)|
+| 2023.11.16 | 제 12회 경제학포럼  | 전세가 예측을 이용한 역전세 조기경보모형 개발: ARIMA 및 머신러닝 기법을 활용하여 |  중앙대학교 경제학부  |1위&nbsp;[논문](<./files/2023 스키안 포럼 논문.pdf>)|
 
