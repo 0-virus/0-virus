@@ -13,8 +13,6 @@
 
 <img src='./images/cat.gif' width='30%' height='30%'> <span style='font-size: 1.2em'>&nbsp;➡️ **My code..🤣**</span>
 <br/><br/><br/>
-# My GitHub is...🤔
-![0-virus' GitHub stats](https://github-readme-stats.vercel.app/api?username=0-virus&show_icons=true&theme=dracula)
 
 # 🏌️‍♂️Activities🏌️‍
 |기간|단체명|활동 내용|비고|
