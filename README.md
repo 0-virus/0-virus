@@ -2,9 +2,9 @@
 
 **Started from hobby!**
 
-**Currently Learning ML & AI ...**
+**Currently Learning Backend Programming ...**
 
-**Wanna be: AI developer 🤖🖥️**
+**Wanna be: Full-Stack Developer**
 <br/>
 <br/>
 ### Welcome to my GitHub!
